@@ -1,0 +1,18 @@
+{
+    "name": "txlabs/users",
+    "description": "Users listing, add and edit functionality",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Ranjitsinh",
+            "email": "ranjit.bhalgariya@jini.guru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Txlabs\\Users\\": "src/"
+        }
+    },
+    "require": {}
+}
